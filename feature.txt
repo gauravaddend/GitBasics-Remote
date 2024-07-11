@@ -1,7 +1,3 @@
-<<<<<<< HEAD
 This is the feature branch
 
 Adding content to generate merge conflict
-=======
-This is the feature
->>>>>>> feature-branch
