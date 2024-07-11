@@ -1,1 +1,1 @@
-This is my first code. This is for updating remote file.
+This is my first code. Removed line for generating merge conflict in remote

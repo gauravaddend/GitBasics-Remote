@@ -1,3 +1,5 @@
 This is the feature branch
 
 Adding content to generate merge conflict
+
+Adding content to generate merge conflict in remote repo
